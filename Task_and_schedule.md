@@ -3,7 +3,7 @@
 ## 进度
 此时，项目完成初始化。
 
-进度: 已添加[面向大众的版本](./conclusion/conclusion4normal.md)。
+进度: 已添加[面向大众的版本](./conclusion/normal-version.md)。
 
 ## 任务
 - [x] 写一个面向大众的版本。
