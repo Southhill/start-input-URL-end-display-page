@@ -3,6 +3,8 @@
 
 ## 网页
 - [浏览器原理学习笔记](https://www.yuque.com/yuliren/lcywde/gaf6fb)
+- [当···时发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN/blob/master/README.rst)
+- [What happens when...](https://github.com/alex/what-happens-when)
 ## 论文
 
 ## 书籍
