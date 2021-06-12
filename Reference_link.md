@@ -7,6 +7,7 @@
 - [浏览器原理学习笔记](https://www.yuque.com/yuliren/lcywde/gaf6fb)
 - [当···时发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN/blob/master/README.rst)
 - [What happens when...](https://github.com/alex/what-happens-when)
+- [电脑上打开浏览器，输入 www.baidu.com，回车，到百度页面出现。中间发生了什么？](https://www.zhihu.com/question/437193010/answer/1653724247)
 ## 论文
 
 ## 书籍
